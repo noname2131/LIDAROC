@@ -7,13 +7,15 @@ The dataset is provided on-demand, by sending a request.
 
 # LIDAROC
 Realistic LiDAR Cover Contamination Dataset for Enhancing Autonomous Vehicle Perception Reliability
-![Alt Text][(URL_gambar)](https://github.com/noname2131/LIDAROC/blob/main/abstract.pdf)
+
 
 # Sensor and Ego-Vehicle
 Data collection is carried out using a real testbed car equipped with the Robosense reference system. We use RS-Ruby as our LiDAR
 sensor with specification 128 beam, minimum 0.1 degrees Vertical Angular Resolution, Horizontal resolution 0.2 degrees, 250 meters range, Horizontal FoV 360 degrees, Vertical FoV 40 degrees, frame rate 10 Hz. This LiDAR generates at least 2.3 million point/second and support for L4+ autonomous driving.  
 
 # Target Object
+![Alt Text]https://github.com/noname2131/LIDAROC/blob/main/images/5m-environment.jpeg
+
 
 # LiDAR Cover Contamination
 
