@@ -18,7 +18,7 @@ sensor with specification 128 beam, minimum 0.1 degrees Vertical Angular Resolut
 
 
 # LiDAR Cover Contamination
-<img src="https://youtu.be/kBRiJ5zdWXkg" width="300" height="200">
+<img src="https://youtu.be/kBRiJ5zdWXk" width="300" height="200">
 
 
 # Object Detection Benchmark
