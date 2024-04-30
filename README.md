@@ -19,6 +19,8 @@ sensor with specification 128 beam, minimum 0.1 degrees Vertical Angular Resolut
 
 # LiDAR Cover Contamination
 
+<img src="https://github.com/noname2131/LIDAROC/blob/main/images/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).mp4" width="600" height="400">
+
 # Object Detection Benchmark
 We tested this data using five state-of-the-art object detection method taken from model zoo https://github.com/thu-ml/3D_Corruptions_AD/tree/main/OpenPCDet/OpenPCDet#model-zoo
 , listed below:
