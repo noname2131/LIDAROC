@@ -22,8 +22,9 @@ sensor with specification 128 beam, minimum 0.1 degrees Vertical Angular Resolut
 
 <img src="https://github.com/noname2131/LIDAROC/blob/main/video/5m_clean.gif" width="400" height="300">
 
-
-
+<img src="https://github.com/noname2131/LIDAROC/blob/main/video/5m_mud_mid.gif" width="400" height="300">
+<img src="https://github.com/noname2131/LIDAROC/blob/main/video/5m_lubricant_mid.gif" width="400" height="300">
+<img src="https://github.com/noname2131/LIDAROC/blob/main/video/10m_clean.gif" width="400" height="300">
 
 # Object Detection Benchmark
 We tested this data using five state-of-the-art object detection method taken from model zoo https://github.com/thu-ml/3D_Corruptions_AD/tree/main/OpenPCDet/OpenPCDet#model-zoo
