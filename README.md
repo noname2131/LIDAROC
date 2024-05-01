@@ -15,7 +15,7 @@ sensor with specification 128 beam, minimum 0.1 degrees Vertical Angular Resolut
 <img src="https://github.com/noname2131/LIDAROC/blob/main/images/sensor.jpg" width="800" height="600">
 
 # Target Object
-<img src="https://github.com/noname2131/LIDAROC/blob/main/images/environment_low.jpg" width="600" height="400">
+<img src="https://github.com/noname2131/LIDAROC/blob/main/images/environment_low.jpg" width="600" height="300">
 
 # LiDAR Cover Contamination
 <img src="https://github.com/noname2131/LIDAROC/blob/main/images/conta_low.jpg" width="800" height="600">
