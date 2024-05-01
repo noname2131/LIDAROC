@@ -7,7 +7,7 @@ The dataset is provided on-demand, by sending a request.
 
 # LIDAROC
 Realistic LiDAR Cover Contamination Dataset for Enhancing Autonomous Vehicle Perception Reliability
-<img src="https://github.com/noname2131/LIDAROC/blob/main/images/abstract.jpg" width="800" height="600">
+<img src="https://github.com/noname2131/LIDAROC/blob/main/images/abstract.jpg" width="800" height="400">
 
 # Sensor and Ego-Vehicle
 Data collection is carried out using a real testbed car equipped with the Robosense reference system. We use RS-Ruby as our LiDAR
