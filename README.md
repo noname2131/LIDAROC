@@ -2,7 +2,7 @@
 Realistic LiDAR Cover Contamination Dataset for Enhancing Autonomous Vehicle Perception Reliability
 
 # Download
-The dataset will be available upon acceptance to IEEE Sensor Letter Journal. 
+The dataset will be available upon acceptance to journal. 
 The dataset is provided on-demand, by sending a request. 
 
 # LIDAROC
