@@ -20,6 +20,11 @@ sensor with specification 128 beam, minimum 0.1 degrees Vertical Angular Resolut
 # LiDAR Cover Contamination
 <img src="https://github.com/noname2131/LIDAROC/blob/main/images/conta_low.jpg" width="1000" height="300">
 
+Data 5m-clean
+<img src="https://github.com/noname2131/LIDAROC/blob/main/video/5m_clean.gif" width="1000" height="300">
+
+
+
 
 # Object Detection Benchmark
 We tested this data using five state-of-the-art object detection method taken from model zoo https://github.com/thu-ml/3D_Corruptions_AD/tree/main/OpenPCDet/OpenPCDet#model-zoo
