@@ -46,3 +46,6 @@ Additionally, since the 3DSSD model was not provided, we were unable to test it 
 Our focus is on evaluating state-of-the-art (SOTA) methods for LiDAR data corruption due to cover contamination. We introduce two new evaluation parameters: 'Corner Case' and 'Instability', the latter also referred to as 'Undetected Frames'. Based on the table provided in this repository, we conclude that PointRCNN demonstrates the best performance, showing the smallest performance penalty in both the 10-meter and 20-meter datasets for detecting Car and Pedestrian. For a detailed explanation, please refer to our paper titled 'CleanScan: Real-Time Contaminant Detection in LiDAR Systems for Reliable Autonomous Vehicle Perception'.
 
 Example of Detection Result using PointRCNN. We chose PointRCNN \cite{Shi_2019_CVPR} as our benchmarking object detection since PointRCNN showed the best performance in terms of the lowest RCE (relative corruption error) by measuring the performance drop over synthetic corruption \cite{dong2023benchmarking}.
+
+# Contact
+Grafika Jati (grafika.jati2@unibo.it)
